@@ -6,7 +6,7 @@
 
 
 ##  Testing checklist
-### S1 Release checklist
-### S2 Automated test checklist
+### Passed @111138 S1 Release checklist
+### Passed @111138 S2 Automated test checklist
 ##  Unit tests
-### S3 Ships test cases
+### Passed @111138 S3 Ships test cases

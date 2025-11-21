@@ -6,8 +6,8 @@
 
 
 ## S3 Ships test cases
-* C3 BargeTest
-* C4 CaravelTest
-* C5 CarrackTest
-* C6 FrigateTest
-* C7 GalleonTest
+* Passed @111138 C3 BargeTest
+* Passed @111138 C4 CaravelTest
+* Passed @111138 C5 CarrackTest
+* Passed @111138 C6 FrigateTest
+* Passed @111138 C7 GalleonTest
